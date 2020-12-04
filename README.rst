@@ -1,7 +1,7 @@
 FAH Documentation-Test
 ======================
 
-Here's quick link to the ReadTheDocs's Project:
+Here's the badge:
 
 .. image:: https://readthedocs.org/projects/test-fah-documentation/badge/?version=latest
     :target: https://test-fah-documentation.readthedocs.io/en/latest/?badge=latest

@@ -1,3 +1,4 @@
+==========
 Contact Us
 ==========
 
@@ -5,13 +6,13 @@ Do you have technical problems with the client(app)?
 ----------------------------------------------------
 Tech support is found at:
 
-- Discord
-- Foldingforum.org
+- `Discord <http://discord.gg/foldingathome>`_
+- `Foldingforum.org <http://foldingathome.org/>`_
 
 
 Do you want to report a client issue or bug?
 
-- Github
+- `Github <https://github.com/FoldingAtHome/fah-issues/issues>`_
 
 
 Do you want to report a security vulnerability?

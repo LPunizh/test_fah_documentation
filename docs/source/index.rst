@@ -3,6 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+======================
 FAH-Documentation-Test
 ======================
 
@@ -29,9 +30,11 @@ Links
 * :ref:`search`
 
 
-Header 1
---------
+----------------
+Noted Style/Font
+----------------
 
-- Dot 1
-- Dot 2
-    Tab
+- Bullet
+- ``Marked``
+- **Bold**
+   Tab

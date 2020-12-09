@@ -1,8 +1,8 @@
-"""
+===
 FAQ
-"""
+===
 
-You’ll find a large library of frequently asked questions about all things connected to Folding@home.
+**You’ll find a large library of frequently asked questions about all things connected to Folding@home.**
 
 This section contains everything from guides and information about how to install 
 and use the Folding@home software to the science behind our research. 

@@ -2,6 +2,9 @@
 FAQ
 ===
 
+.. image:: https://foldingathome.org/wp-content/uploads/2016/09/Pande-Lab_Stanford-University_Foldingathome-2.jpg
+   :alt: FAQ
+
 **You’ll find a large library of frequently asked questions about all things connected to Folding@home.**
 
 This section contains everything from guides and information about how to install 

@@ -15,7 +15,7 @@ Look through the sidebar and find the topic you want to know more about.
    :depth: 2
 
 Can I run Folding@home on a machine I don’t own?
-------------------------------------------------
+================================================
 Please only run Folding@home on machines you either own or on which you have the permission of the owner to run our software. 
 If there is any doubt (eg you want to run on computers at work), 
 we suggest you get written approval (eg get your superior to sign a letter giving authorization); 
@@ -24,7 +24,7 @@ Please do not assume that permission is granted by the owner. Any other use of F
 and just isn’t a good idea in general.
 
 What are the minimum system requirements?
------------------------------------------
+=========================================
 All computers can contribute to Folding@home. However, if the computer is too slow (e.g. wasn’t built in the last 5 years or so), 
 the computer might not be fast enough to make the deadlines of typical work units. 
 A Pentium 4 or newer equivalent computer (with SSE) is able to complete work units before they expire.
@@ -33,7 +33,7 @@ Folding part time (less than 24 hours a day) will increase the minimum system re
 In this case, it is up to the donor to determine how many hours a day are required to fold and still meet the deadlines with each computer.
 
 What happens if there is a suspected license (EULA) violation?
---------------------------------------------------------------
+==============================================================
 We will attempt to contact the donor if there is some suspicion of a EULA violation. 
 Many donors use their email as their donor name and this is helpful. 
 If do not have any information on hand and we have been presented with a sufficiently strong case that there was a EULA violation, 
@@ -42,7 +42,7 @@ This decision can be reversed if there is sufficient information to exonerate th
 The donor should contact one of the Pande Group members or Forum Moderators at our forum to get in touch with us in such a situation.
 
 What has been “folded” so far, and how much have I folded?
-----------------------------------------------------------
+==========================================================
 We’ve simulated a wide variety of proteins and other molecules. 
 We divide the simulations into packets called “Work Units,” (WUs) each of which is sent to a computer for processing. 
 We then assemble all the WUs from a project into a completed simulation. 
@@ -50,7 +50,7 @@ We keep many types of statistics of users and work accomplished in our Stats sec
 You can check your Individual stats, Team stats, and overall Project stats. Please also review the Results and Awards sections.
 
 What has the project completed so far?
---------------------------------------
+======================================
 We have been able to fold several proteins into the 1.5 millisecond time range with experimental validation of our folding kinetics. 
 This is a timescale a thousand times longer than any previous atomic-level simulation, and represents a fundamental advance over previous work. 
 We are now simulating important proteins used in structural biology studies of folding as well as proteins involved in disease. 
@@ -63,18 +63,18 @@ These publications are highly detailed and often technical,
 but summaries of their findings can be found on Results page as well as the Folding@home article on Wikipedia.
 
 What is distributed computing?
-------------------------------
+==============================
 Distributed Computing is a method of computer processing in which different parts of a program, or different portions of data, 
 are processing simultaneously on two or more computers. We are able to use this approach to significantly accelerate our research. 
 Folding@home is one of the largest, most powerful, and most widely distributed computing networks.
 
 What is Folding@home? What is protein folding?
-----------------------------------------------
+==============================================
 Folding@home is a distributed computing project, that very simply stated, studies protein folding and misfolding. 
 Protein folding is explained in more detail in the scientific background section. It also helps us develop drugs to combat disease.
 
 Who “owns” the results? What will happen to them?
--------------------------------------------------
+=================================================
 Folding@home is run by an academic institution (specifically the Pande Group, at Stanford University’s Chemistry Department), 
 which is a nonprofit institution dedicated to science research and education. We will not sell the data or make any money from it. 
 Moreover, we will make the data available for others to use. 
@@ -88,14 +88,14 @@ The data sets from some of our most prominent simulations are already publicly a
 We’ve also striven to share our key technologies with other scientists, to assist their research as well.
 
 Why don’t you post the source code?
------------------------------------
+===================================
 Most of the critical parts of FAH are publicly available. The Tinker and Gromacs source codes can be downloaded and run. 
 Unlike many computer projects, the paramount concern is not functionality, but the scientific integrity, 
 and posting the source code in a way that would allow people to reverse engineer the code to produce bogus scientific results would make the whole project pointless. 
 However, we stress that the vast majority of our code is already open source. We have an Open Source FAQ with more details.
 
 Why not just use a supercomputer?
----------------------------------
+=================================
 Modern supercomputers are essentially clusters of hundreds of processors linked by fast networking. 
 The speed of these processors is comparable to (and often slower than) those found in PCs! 
 Supercomputers are not only very expensive to operate, but they are often simultaneously shared by many different research groups, 
